@@ -1,2 +1,2 @@
 # AppScript-Examples
-Examples for various Sigma Apps
+A collection of examples used for learning and developing Sigma Estimates Apps. Please see https://developer.sigmaestimates.com/ for more information.
