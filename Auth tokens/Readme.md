@@ -21,6 +21,7 @@ The user will experience the browser (Chrome, IE, Edge, …) to ask the user if 
 ### AppScript implementation
 The following code is a minimal example of receiving the token, by listening for the notification of new AuthTokens. Notice, that more Sigma Apps could be subscribing to the Auth event, which is why we check that it was intended for our App.
 
+```pascal
     unit TestAuthToken;
     
     interface
@@ -51,7 +52,4 @@ The following code is a minimal example of receiving the token, by listening for
       Application.OnNotify := NewAuth;
     finalization
       Application.OnNotify := nil;
-
-
-
-
+```
