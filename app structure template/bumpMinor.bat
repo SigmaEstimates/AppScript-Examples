@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File ps\bump.ps1 -incrementType "minor"

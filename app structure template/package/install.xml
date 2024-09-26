@@ -1,0 +1,25 @@
+<sigma.package.manifest>
+  <id>MyKey123</id>
+  <name>My Sigma App</name>
+  <version>1.0.0.0</version>
+  <description>Worldclass improvement to EG Sigma</description>
+  <productURL>
+  </productURL>
+  <authorID>
+  </authorID>
+  <authorName>
+  </authorName>
+  <authorURL>
+  </authorURL>
+  <actions>
+    <action type="eula" required="true">
+      <source>TermsOfUse.rtf</source>
+    </action>
+    <action type="copy" backup="false">
+      <source>myapp.sigmabundle</source>
+      <target>myapp.sigmabundle</target>
+    </action>
+    <action type="restart" />
+    <!-- Restart Sigma -->
+  </actions>
+</sigma.package.manifest>

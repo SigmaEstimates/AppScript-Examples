@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sigma.script.bundle version="0">
+  <ID>MyKey123</ID>
+  <name>My Sigma App</name>
+  <version>1.0.0.0</version>
+  <description>Worldclass improvement to EG Sigma</description>
+  <URL />
+  <authorID>AAADINXQLM2DN4C3UMAA</authorID>
+  <authorName>sigma_estimates</authorName>
+  <authorURL />
+  <productID />
+  <options />
+  <files>
+    <file>
+      <source>src\!!app.pas</source>
+      <target>!!app.pas</target>
+      <encrypt>true</encrypt>
+    </file>
+  </files>
+</sigma.script.bundle>

@@ -1,0 +1,12 @@
+{
+	"productKey": "MyKey123",
+	"bundleName": "myapp.sigmabundleproj",
+	"name": "My Sigma App",
+	"description": "Worldclass improvement to EG Sigma",
+	"ftphost": "sigmadownload.com",
+	"ftppath_beta": "ftp://ftp.sigmadownload.com/binaries/apps/beta",
+	"httppath_beta": "https://sigmadownload.com/binaries/apps/beta",
+	"ftppath_release": "ftp://ftp.sigmadownload.com/binaries/apps",
+	"httppath_release": "https://sigmadownload.com/binaries/apps",
+	"ftppasswd": ""
+}
